@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OG 1MIL – Art of Mystery</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #0A0A23;
+      color: #B08D57;
+      font-family: 'Georgia', serif;
+    }
+    header {
+      padding: 6rem 2rem;
+      text-align: static;
+      background: radial-gradient(circle, #0A0A23 60%, #2D2D2D);
+    }
+    h1 {
+      font-size: 3rem;
+      color: #6A1A2B;
+      letter-spacing: 3px;
+    }
+    .hero img {
+      width: 100%;
+      filter: brightness(0.5);
+    }
+    .section {
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+    a {
+      color: #B08D57;
+      text-decoration: none;
+      border-bottom: 1px dashed #6A1A2B;
+      transition: color 0.3s ease;
+    }
+    a:hover {
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OG 1MIL</h1>
+    <p>Enter the Circle</p>
+  </header>
+
+  <div class="hero">
+    <img src="https://via.placeholder.com/1600x600/0A0A23/B08D57?text=Mystery+Luxury" alt="Mystery hero">
+  </div>
+
+  <section class="section">
+    <h2>A Symbol of Secrets</h2>
+    <p>More than a brand—OG 1MIL is a hidden society of ambition and power.</p>
+    <p><a href="#">Unlock Access</a></p>
+  </section>
+</body>
+</html>
